@@ -10,6 +10,6 @@
 
 @interface NSString (RemoveCharacters)
 
-@property (nonatomic, strong) NSString *inputString;
+@property (nonatomic, strong) NSString *inputStrng;
 -(NSString *)removeNumbersFromString;
 @end
